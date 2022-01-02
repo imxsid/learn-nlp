@@ -26,9 +26,9 @@ The different areas where text analytics is applied such as&#x20;
 
 There are **three stages** in text analytics:
 
-1. Lexical processing
-2. Syntactic processing
-3. Semantic processing
+1. [Lexical Processing](broken-reference)
+2. [Syntactic Processing](broken-reference)
+3. [Semantic Processing](broken-reference)
 
 ## Regex
 
